@@ -1,0 +1,2 @@
+I am a student of programming.
+The student is learning Java.
